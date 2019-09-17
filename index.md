@@ -7,8 +7,9 @@ Enjoy and come back,
 
 ---
 ### Recent posts
-#### [19 Sep 2019: V0.1 Release Candidate ready!](blogs/00002.md)
-#### [26 Apr 2019: Original idea of the tool](blogs/00001.md)
+* 19 Sep 2019: [V0.1 Release Candidate ready!](posts/00003.md)
+* 11 Jun 2019: [Go Python](posts/00002.md)
+* 26 Apr 2019: [Original idea of the tool](posts/00001.md)
 
 ---
 ### Glossary
