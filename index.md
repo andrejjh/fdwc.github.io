@@ -7,7 +7,7 @@ Enjoy and come back,
 
 ---
 ### Recent posts
-* 20 Sep 2019: [Goodtables on GBIF downloaded occurrences](posts/00004.md)
+* 20 Sep 2019: [Goodtables](posts/00004.md)
 * 19 Sep 2019: [V0.1 Release Candidate](posts/00003.md)
 * 11 Jun 2019: [Go Python](posts/00002.md)
 * 26 Apr 2019: [Frictionless Data Tool Fund](posts/00001.md)
