@@ -1,5 +1,5 @@
+![FDwC](images/fdwc.png)
 ## Welcome to Frictionless Darwin Core Pages
-
 This repository gathers my notes on [FrictionlessDarwinCore](https://github.com/frictionlessdata/FrictionlessDarwinCore): a Python tool converting DarwinCore archives into Frictionless Data Package.
 
 Enjoy and come back,
